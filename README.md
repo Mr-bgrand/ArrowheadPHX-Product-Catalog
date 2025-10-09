@@ -44,7 +44,7 @@ Public dataset of Zebra Technologies products from [ArrowheadPHX.com](https://ar
 ## 🔗 Links
 
 - **Website:** https://arrowheadphx.com
-- **Kaggle Dataset:** [Your Kaggle URL when ready]
+- **Kaggle Dataset:** https://www.kaggle.com/datasets/mrbgrand/arrowhead-zebra-technologies-product-catalog-2025/data/data/data/data
 - **API Docs:** Coming soon
 
 ## 📄 License
