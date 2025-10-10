@@ -16,8 +16,9 @@ Public datasets of Zebra Technologies products available at ArrowheadPHX.com, a 
 **Last Updated:** October 9, 2025
 **Total Value:** $67,452
 **In Stock:** 35/46 (76%)
-
 **Coverage:** 97.5% of current Zebra product line
+
+🔗 **[View on Kaggle](https://www.kaggle.com/datasets/mrbgrand/arrowhead-zebra-technologies-product-catalog-2025)**
 
 ### 2. Consumables Flagship Products
 **File:** `arrowheadphx_consumables_flagships.csv`
@@ -25,6 +26,8 @@ Public datasets of Zebra Technologies products available at ArrowheadPHX.com, a 
 **Last Updated:** October 9, 2025
 **Inventory Value:** $1.78 million
 **In Stock:** 100%
+
+🔗 **[View on Kaggle](https://www.kaggle.com/datasets/mrbgrand/arrowhead-top-zebra-consumables-labels)**
 
 **Source:** ArrowheadPHX.com BigCommerce API
 
@@ -168,8 +171,9 @@ This dataset is updated periodically. Check the GitHub repository for the latest
 
 - **ArrowheadPHX Website:** https://arrowheadphx.com
 - **Zebra Technologies:** https://www.zebra.com
-- **API Documentation:** Coming soon
-- **Developer Portal:** Coming soon
+- **Kaggle - Hardware Dataset:** https://www.kaggle.com/datasets/mrbgrand/arrowhead-zebra-technologies-product-catalog-2025
+- **Kaggle - Consumables Dataset:** https://www.kaggle.com/datasets/mrbgrand/arrowhead-top-zebra-consumables-labels
+- **GitHub Repository:** https://github.com/Mr-bgrand/ArrowheadPHX-Product-Catalog
 
 ---
 
